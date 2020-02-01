@@ -1,1 +1,4 @@
-#Projeto de Voz alexa
+# Projeto Skill Alexa
+
+  - Aws Lambda 
+  - Alexa
